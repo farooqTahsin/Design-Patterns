@@ -10,10 +10,17 @@ Strategy lets the algorithm vary independently from clients that use it.
 2. fight game.
 3. payment processing system.
 
-
 ## 02-Observer Pattern:
 The Observer Pattern defines a one-to-many dependency between objects so that when one object changes state, 
 all of its dependents are notified and updated automatically.
 ### Examples:
 1. weather station.
 2. numeral system.
+
+## 03-Decorator Pattern:
+The Decorator Pattern attaches additional responsibilities to an object dynamically.
+Decorators provide a flexible alternative to subclassing for extending functionality.
+### Examples:
+1. starbuzz.
+2. starbuzz with sizes.
+3. pizza store.
