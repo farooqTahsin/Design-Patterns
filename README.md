@@ -24,3 +24,14 @@ Decorators provide a flexible alternative to subclassing for extending functiona
 1. starbuzz.
 2. starbuzz with sizes.
 3. pizza store.
+
+## 04-Factory Pattern:
+1. The Factory Pattern defines an interface for creating an object, but lets subclasses decide which class to instantiate. Factory Method lets a class defer instantiation to subclasses.
+2. The Abstract Factory Pattern provides an interface for creating families of related or dependent objects without specifying their concrete classes.
+### Examples:
+* factory pattern :
+    * pizza store
+    * notification
+* abstract factory pattern :
+    * pizza store
+    * car factory 
