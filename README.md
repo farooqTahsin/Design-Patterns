@@ -36,7 +36,12 @@ Decorators provide a flexible alternative to subclassing for extending functiona
     * pizza store
     * car factory 
 
-## 04-Singleton Pattern:
+## 05-Singleton Pattern:
 The Singleton Pattern ensures a class has only one instance, and provides a global point of access to it.
 ### Examples:
 * Chocolate Boiler
+
+## 06-Command Pattern:
+The Command Pattern encapsulates a request as an object, thereby letting you parameterize other objects with different requests, queue or log requests, and support undoable operations.
+### Examples:
+* Simple Remote
